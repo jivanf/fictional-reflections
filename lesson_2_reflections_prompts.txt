@@ -20,6 +20,11 @@ How do the diagrams help you visualize the branch structure?
 
 They are easier to understand.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When you merge two branches together, you get a final result, which is stored in the master branch
+Because they are represented like branches of a tree, and beacuse it is easier to understand.
+
 
 
 
