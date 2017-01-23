@@ -1,0 +1,37 @@
+-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helped me so that i could see the diffs between the file that 
+was working and the one that wasn't working. After that, I could spot
+the typos or error in the new file and then fix them.
+
+-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It makes you a more efficient programmer because instead of saving the older file in one of your folders
+you can check the history for that file, and by doing this you take less time.
+
+-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros & Cons of creating the commit manually manually.
+
+PROS: 
+* You have control to when saving a file or when not.
+* The commits won't be too big or too small, they will be just how you want them.
+
+CONS:
+* You take more time creating the commit manually.
+* You may forget to create the commit.
+
+-Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
+
+Because Git allows you to save the type of file you want, for example an HTML file or a CSS file, which may be needed to be changed at the same time.
+Meanwhile, Google Docs only lets you save text files.
+
+-How can you use the commands git log and git diff to view the history of files?
+I can use them within a repository. When i do git log, I can see how many times the repository has been changed, but I can use git diff 
+so that i can see the differences between one change and another.
+
+-How might using version control make you more confident to make changes that could break something?
+By using version control, you can access older versions of the file you are working on and if you encounter a bug,
+you can find it by going through older versions of that file, using version control.x   
+
