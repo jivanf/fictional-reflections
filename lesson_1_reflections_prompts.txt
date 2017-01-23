@@ -33,5 +33,7 @@ so that i can see the differences between one change and another.
 
 -How might using version control make you more confident to make changes that could break something?
 By using version control, you can access older versions of the file you are working on and if you encounter a bug,
-you can find it by going through older versions of that file, using version control.x   
+you can find it by going through older versions of that file, using version control.
+
+-Now that you have your workspace set up, what do you want to try using Git for?
 
