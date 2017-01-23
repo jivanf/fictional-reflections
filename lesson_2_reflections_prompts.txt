@@ -14,6 +14,12 @@ Because I can see in the staging area the commits I want to send to the reposito
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-They are helpful when you want to do something that doesn't affect the main branch. They help
-when you want to test new things.
+They are helpful when you want to do something that doesn't affect the main branch. They help when you want to test new things.
+
+How do the diagrams help you visualize the branch structure?
+
+They are easier to understand.
+
+
+
 
