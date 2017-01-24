@@ -25,6 +25,8 @@ What is the result of merging two branches together? Why do we represent it in t
 When you merge two branches together, you get a final result, which is stored in the master branch
 Because they are represented like branches of a tree, and beacuse it is easier to understand.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?	
+
 
 
 
