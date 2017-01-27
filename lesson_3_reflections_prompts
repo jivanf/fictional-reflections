@@ -8,5 +8,5 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Branches are like a group of commits, when you clone a repository it means that you are making a copy of it, without changing anything. When you fork a repository it means that you copy the repository of someone else, while keeping the credits of the one who made it. When you fork a repository, you can't edit that repository.
 
-
-
+What is the benefit of having a copy of the last known state of the remote stored locally?
+By having that copy stored locally you can easily sync files from your local computer to GitHub and viceversa.
