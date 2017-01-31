@@ -10,3 +10,6 @@ Branches are like a group of commits, when you clone a repository it means that 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 By having that copy stored locally you can easily sync files from your local computer to GitHub and viceversa.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+If i couldn't use Git or GitHub when collaborating with other people, I think the easiest way to collaborate with people would be changing files and sending them via email to the person you are working with.
